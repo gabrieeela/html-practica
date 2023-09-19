@@ -1,0 +1,25 @@
+body{
+    background-color: lightpink;
+}
+
+h1{
+    color: indigo;
+    margin-top: auto;
+    padding-top: 10px;
+}
+
+img{
+    float: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border: 10px white;
+}
+
+h2{
+    color: crimson;
+    margin-bottom: auto;
+    padding-bottom: 10px;
+}
+
